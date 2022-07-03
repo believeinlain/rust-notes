@@ -29,3 +29,8 @@ To design a functional game engine, I need to start with safe, cross-platform Ru
 
 ## Quantum Computing
 Maybe it would be fun to rebuild my quantum computer emulator in Rust. Cool resources: https://arewequantumyet.github.io  
+
+## Hands-on Rust
+Just bought the book [Hands-on Rust Effective Learning through 2D Game Development and Play by Herbert Wolverson](https://pragprog.com/titles/hwrust/hands-on-rust/).
+
+Working through the examples [here](https://github.com/believeinlain/hands-on-rust.git).
